@@ -1,0 +1,1 @@
+if (oBean.x > x) opening = true;
